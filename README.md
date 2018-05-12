@@ -1,7 +1,19 @@
 # ReactNativePlayground
 Basic React Native Tutorial
 
-## How To Install
+# What you will learn
+- how to create component
+- how to define state and set state
+- props
+- styling
+- text input, view, button
+- touchable
+- scrollview
+- modal
+- picker
+- slider
+
+## How to install
 ```
 git clone https://github.com/randyviandaputra/ReactNativePlayground.git
 cd ReactNativePlayground
@@ -11,7 +23,7 @@ yarn run ios (run on ios)
 
 ```
 
-## App Preview
+## App preview
 ![alt text](https://github.com/randyviandaputra/ReactNativePlayground/blob/bc34a73ee3f55c2a3d1a4b6a04bc739a25055ade/img/app.png "App Preview")
 
 
