@@ -73,3 +73,6 @@ package-lock.json
 
 ios/build
 ios/*.xcodeproj
+
+android/app/build
+android/build
