@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_73e9dda3951897910d77327b89fd98bbbda9c077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5ad566ce53b3a22a746795f4eb8c3ff5243a342a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_7b9ee48a455017d6b48983ae61b5d411e0e73076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.3_c7512d586eb6473bb115b123a11ccf2eebde5ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_811e389d53f9ac2e89c36cae32b1ebaaaca90776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_41ffc9e227158d61481ded57d05cd2b1ce84c83d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0348d2db320954221f49479dc820eacd7d853c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_e1b1598e89133cae978858413fefb11de2018979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_14cacbf9b601e0690f8d5bcfbe55f22750aba65c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_7abe89fac5b64b375df7c0bd85b11c1a7018cb59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d971026a1d6c49381f13d8bc32f9c3ae9d9a4386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_3bcfce366c16d2d4cf723db239b95785ccd8285b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_552decd79597b3b811d7113ab3919168cfdfc35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_50c13fb7fccb4799a36a5376b0a5682cd9519bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_2eb1ee6ad2b51bcaa36276dd23cb24342e291d03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_bb27551e7ff30fc1ce474c4bf4ede0fa978079cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0485194813c1b9437092bc84493d8119683d8caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_efb4b917f784a06e448404013a9bbe3a8197b695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_2d1326173af5e5ba6c6d8326b3549f0a59a3b2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_088a77fd33a9d741ea19cb5dadb6710ac5301082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/aweutist/ws/React-Native-Spaces/RnStarter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_d3c7098614cbae1ee3eb11ee4cd5593852c1a4e4.jar" />
+    </item>
+
+</items>
