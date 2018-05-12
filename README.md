@@ -1,7 +1,7 @@
 # ReactNativePlayground
 Basic React Native Tutorial
 
-# What you will learn
+## What you will learn
 - how to create component
 - how to define state and set state
 - props
